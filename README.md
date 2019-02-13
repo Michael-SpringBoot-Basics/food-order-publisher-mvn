@@ -1,4 +1,4 @@
-# food-order-publisher
+# food-order-publisher maven as a build tool
 
 Code written for the following blog posts:
 
